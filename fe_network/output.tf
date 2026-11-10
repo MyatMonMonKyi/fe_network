@@ -38,7 +38,7 @@ output "fe_private_subnet3_id" {
   value       = aws_subnet.frontend_private_subnet03.id
 }
 
-output "fe_public_subnet1_id" {
-  description = "ID of FE public subnet1"
-  value       = aws_subnet.frontend_public_subnet01.id
-}
+# output "fe_public_subnet1_id" {
+#   description = "ID of FE public subnet1"
+#   value       = aws_subnet.frontend_public_subnet01.id
+# }
