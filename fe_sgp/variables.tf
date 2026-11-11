@@ -17,11 +17,11 @@ variable "fe_network_workspace_name" {
   default     = "fe_network"
 }
 
-variable "be_sgp_workspace_name" {
-  description = "Name of the source workspace to query."
-  type        = string
-  default     = "be_sgp"
-}
+# variable "be_sgp_workspace_name" {
+#   description = "Name of the source workspace to query."
+#   type        = string
+#   default     = "be_sgp"
+# }
 
 variable "organization_name" {
   description = "Name of the HCP Terraform organization with the source workspace"
