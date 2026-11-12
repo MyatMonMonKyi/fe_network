@@ -1,3 +1,2 @@
-TEST HAHAHA
-Third Testing
-Fourth Testing
+- This project mainly focus on **VCS-driven workflow with protected main branch, OPA (Open Policy Agent), and OIDC (OpenID Connect).**
+- fe_network and fe_sgp workspaces are used.
